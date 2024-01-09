@@ -39,7 +39,7 @@ Limitations:
 
 
   
-<details markdown ="1"><summary>Does work</summary>
+<details><summary>Does work</summary>
 
 Hi
 
