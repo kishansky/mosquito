@@ -1,6 +1,6 @@
 ### Entities
 
-  ####<details> <summary>Customer</summary>
+  <details> <summary>`**Customer**`</summary>
   Customer is the key component of any business. This database can contain following details about customers:
   + Name
   + Contact number
